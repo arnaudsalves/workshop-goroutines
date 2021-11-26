@@ -14,14 +14,14 @@ func fale(pessoa, texto string, qtde int) {
 
 func main() {
 	// EXemplo 1
-	// fale("Maria", "Pq vc não fala comigo?", 3)
-	// fale("João", "Só posso falar depois de vc!", 1)
+	//fale("Maria", "Pq vc não fala comigo?", 3)
+	//fale("João", "Só posso falar depois de vc!", 1)
 
 	// EXemplo 2
-	// go fale("Maria", "Ei...", 500)
-	// go fale("João", "Opa...", 500)
+	//go fale("Maria", "Ei...", 500)
+	//go fale("João", "Opa...", 500)
 
 	// EXemplo 3
-	go fale("Maria", "Entendi!!!", 10)
-	fale("João", "Parabéns!", 7)
+	//go fale("Maria", "Entendi!!!", 10)
+	//fale("João", "Parabéns!", 7)
 }
