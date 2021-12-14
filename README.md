@@ -16,3 +16,7 @@ titulo da página. Nosso objetivo é diminuir o tempo desse processo.
 |Nathalia | Hu100|
 |Hu100 | Jamal|
 |Jamal | Wisky|
+
+NAO PARA DE ATUALIZARRRRR 
+
+UFA, PAROU
